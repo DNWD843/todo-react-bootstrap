@@ -24,7 +24,7 @@
       "react-app/jest"
     ]
   },
-  "homepage": ".",
+  "homepage": "https://dnwd843.github.io/todo-react-bootstrap/",
   "browserslist": {
     "production": [
       ">0.2%",
