@@ -16,3 +16,5 @@ All my ideas and new fetures i'll release at 'todo-redux' project.
 You`ll see it on my GitHub when it will be done.  
 Thats all, guys!  
 Good luck and clean code!
+
+See this project <a href="https://dnwd843.github.io/todo-react-bootstrap/" rel="noopener noreferrer" target="_blank" >here</a>
